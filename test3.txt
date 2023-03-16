@@ -1,3 +1,4 @@
 TEST #3.
 merge test commit 1.
 merge test commit 2.
+merge test commit 3.
