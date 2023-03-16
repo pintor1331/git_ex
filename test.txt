@@ -1,2 +1,3 @@
 hello.
 I am pintor.
+This is test #02.
